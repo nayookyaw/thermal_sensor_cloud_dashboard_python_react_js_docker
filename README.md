@@ -11,7 +11,7 @@ We can see the real-time thermal sensor values from anywhere as long as you cab 
 1. AMG8833 thermal sensor
 2. ESP8266 microcontroller
 
-![Alt Text](https://drive.google.com/file/d/1k_nqvdd1sm47QcrIw5uvbcQAJHwYypmh/view?usp=sharing)
+![Alt Text](https://gifyu.com/image/SzhFw)
 
 # Install Docker
 https://docs.docker.com/engine/install/ubuntu/
