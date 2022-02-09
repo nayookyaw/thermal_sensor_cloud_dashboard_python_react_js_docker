@@ -1,0 +1,14 @@
+.console_title_wrapper {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #2c393c;
+    color:white;
+    margin-bottom: 10px;
+}
+
+.sensor_logo {
+    width : 3%;
+}

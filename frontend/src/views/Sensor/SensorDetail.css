@@ -1,0 +1,8 @@
+.total_record_count {
+    width: 100%;
+    font-style: italic;
+}
+
+.breadcrumb-item.active {
+    color: whitesmoke;
+}

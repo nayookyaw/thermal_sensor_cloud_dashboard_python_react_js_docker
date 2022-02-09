@@ -1,0 +1,14 @@
+.auto_manage {
+    display: flex;
+    float: left;
+}
+
+.total_record_count {
+    width: 100%;
+    font-style: italic;
+    text-align: right;
+}
+
+.size {
+    color: blue;
+}
